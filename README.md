@@ -233,26 +233,6 @@ Plain `nc` can't speak TLS, so `openssl s_client` is used to open an encrypted c
 
 ---
 
-## 📊 Progress
-
-**16 / 34 Levels Completed** 🎯
-
-```
-████████████████░░░░░░░░░░░░░░░░░░ 47%
-```
-
-## 🏆 Milestones
-
-- 🟢 **Levels 1–5** — Completed
-- 🟢 **Levels 6–10** — Completed
-- 🟢 **Levels 11–15** — Completed
-- 🟢 **Level 16** — Completed
-- ⚪ **Levels 17–20** — Upcoming
-- ⚪ **Levels 21–25** — Upcoming
-- ⚪ **Levels 26–30** — Upcoming
-- ⚪ **Levels 31–34** — Final Mission
-
-## 🎯 Goal
 
 Complete all **OverTheWire Bandit** levels and document the commands, techniques, and cybersecurity concepts learned throughout the journey.
 
